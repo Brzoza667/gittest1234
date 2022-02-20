@@ -1,4 +1,4 @@
-package pl.sdacademy.java.basic.exercises.task9;
+package pl.sdacademy.java.basic.exercises.day1.task9;
 
 public class Task9 {
 

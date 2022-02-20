@@ -1,4 +1,4 @@
-package pl.sdacademy.java.basic.exercises.task4;
+package pl.sdacademy.java.basic.exercises.day1.task4;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

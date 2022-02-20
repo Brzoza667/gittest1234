@@ -1,4 +1,4 @@
-package pl.sdacademy.java.basic.exercises.task2;
+package pl.sdacademy.java.basic.exercises.day1.task2;
 
 import java.util.Scanner;
 
